@@ -7,7 +7,7 @@ def plusmal(x,y):
 #z.B. plusmal(2,3) = (2+3)*2
 
 def unterschreiben(x):
-    return x+"x wurde Getestet"
+    return x+"_unterschrieben"
 # füge einem String dem wert "_unterschrieben" hinzu.
 # z.B. unterschreiben("test") : "test_unterschrieben"
 
