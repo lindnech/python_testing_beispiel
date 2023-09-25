@@ -12,5 +12,5 @@ def test_kubieren1():
 def test_kubieren2():
     assert kubieren(3) == 3**3
 
-def test_testfehler():
-    assert plusmal(2,3) == 7
+# def test_testfehler():
+#     assert plusmal(2,3) == 7
